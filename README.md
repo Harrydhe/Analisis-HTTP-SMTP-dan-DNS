@@ -87,8 +87,6 @@ server {
    ```
 
    Akses melalui browser Chrome:
-- Untuk **HTTP/1.1**, buka: [http://localhost:8001](http://localhost:8001)
+- Untuk **HTTP/1**, buka: [http://localhost:8001](http://localhost:8001)
 - Untuk **HTTP/2**, buka: [https://localhost](https://localhost)
-
-
 
