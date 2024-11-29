@@ -59,7 +59,7 @@ server {
 3. Isi jawaban dari pertanyaan sesuai yang diinginkan
 
 
-## 3. Landing Page
+### 3. Landing Page
 
 Buat file `index.html` dan masukkan kode berikut:
 
@@ -121,7 +121,7 @@ Buat file `index.html` dan masukkan kode berikut:
     ```
 3. Save
 
-### Pengujian Proyek
+## Pengujian Proyek
 1. Navigasikan ke folder `{root_project}/` menggunakan terminal.
 2. Jalankan perintah berikut untuk memulai layanan:
 
