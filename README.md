@@ -76,7 +76,7 @@ server {
          - ./ssl:/etc/nginx/certs
          - ./index.html:/var/www/index.html
     ```
-   3. save
+3. Save
 
 ### Pengujian Proyek
 1. Navigasikan ke folder `{root_project}/` menggunakan terminal.
