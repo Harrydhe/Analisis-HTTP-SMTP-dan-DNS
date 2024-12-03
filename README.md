@@ -131,5 +131,10 @@ Buat file `index.html` dan masukkan kode berikut:
 
    Akses melalui browser Chrome:
 - Untuk **HTTP/1**, buka: [http://localhost:8001](http://localhost:8001)
+![Deskripsi Gambar](https://github.com/Harrydhe/Analisis-HTTP-SMTP-dan-DNS/blob/main/assets/http1%20protocol.jpg)
+
+
 - Untuk **HTTP/2**, buka: [https://localhost](https://localhost)
+
+![Deskripsi Gambar](https://github.com/Harrydhe/Analisis-HTTP-SMTP-dan-DNS/blob/main/assets/http2protocol.jpg)
 
