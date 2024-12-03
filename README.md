@@ -133,8 +133,14 @@ Buat file `index.html` dan masukkan kode berikut:
 - Untuk **HTTP/1**, buka: [http://localhost:8001](http://localhost:8001)
 ![Deskripsi Gambar](https://github.com/Harrydhe/Analisis-HTTP-SMTP-dan-DNS/blob/main/assets/http1%20protocol.jpg)
 
+![Deskripsi Gambar](https://github.com/Harrydhe/Analisis-HTTP-SMTP-dan-DNS/blob/main/assets/Screenshot%202024-11-28%20214303.jpg)
+
+
 
 - Untuk **HTTP/2**, buka: [https://localhost](https://localhost)
 
 ![Deskripsi Gambar](https://github.com/Harrydhe/Analisis-HTTP-SMTP-dan-DNS/blob/main/assets/http2protocol.jpg)
+
+![Deskripsi Gambar](https://github.com/Harrydhe/Analisis-HTTP-SMTP-dan-DNS/blob/main/assets/http2.jpg)
+
 
